@@ -35,10 +35,13 @@ Această organizare modulară contribuie la o structură mai clară a proiectulu
 ### 3.1. Diagrama Use Case
 
 Diagrama Use Case ilustrează actorii care interacționează cu sistemul și principalele acțiuni pe care aceștia le pot realiza.
+![Diagrama Use Case](../diagrams/Diagrama_Use_Case.png)
 
 ### 3.2. Diagrama arhitecturii modulare
 
 Diagrama prezintă cele trei straturi ale sistemului și modul în care acestea comunică între ele.
+![Diagrama arhitecturii modulare](../diagrams/Arhitectura_Modulara.png)
+
 ## 4. Prototipul interactiv
 
 Prototipul interactiv al sistemului a fost realizat în Figma și prezintă principalele ecrane și fluxuri de navigare ale aplicației.
